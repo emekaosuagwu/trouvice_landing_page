@@ -6,6 +6,11 @@ body {
 	background-color: #fff;
 }
 
+.header_logo {
+	position: absolute;
+	top: 0;
+	height: 61px;
+}
 
 .banner {
 	margin-top: 50px;
@@ -93,7 +98,7 @@ body {
 }
 
 
-.getting_started_section {
+.getting_started_section{
 	padding: 100px;
 	background-color: #271739;
 }
@@ -131,4 +136,44 @@ body {
 .getting_started_section_steps_sub_text {
 	color: #fff;
 	text-align: left;
+}
+
+
+.join_action_section {
+    padding: 100px;
+}
+
+.join_action_section_lead_text{
+	text-align: center;
+	font-size: 30px;
+	width: 68%;
+	margin: 0px auto;
+}
+
+.join_action_section_button.btn.btn-primary.btn-lg.btn-block {
+    width: 42%;
+    margin: 0px auto;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+
+.footer_section {
+	background-color: #271739;
+	padding: 20px;
+}
+
+
+
+.faq_section{
+	padding: 100px;
+}
+
+.faq_section_lead_text {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.faq_section_link:hover {
+	text-decoration: none;
 }
