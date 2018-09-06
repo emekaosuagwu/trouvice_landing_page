@@ -91,3 +91,44 @@ body {
     border-color: gray;
     border-width: 2px;
 }
+
+
+.getting_started_section {
+	padding: 100px;
+	background-color: #271739;
+}
+
+.getting_started_section_lead_text {
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+}
+
+.getting_started_section_sub_text {
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+}
+
+.getting_started_section_steps {
+    text-align: center;
+}
+
+.getting_started_section_sub_text {
+    margin-bottom: 77px;
+}
+
+.getting_started_section_steps_image {
+    width: 38%;
+    margin-bottom: 30px;
+}
+
+.getting_started_section_steps_lead_text {
+	color: #fff;
+	font-size: 20px;
+}
+
+.getting_started_section_steps_sub_text {
+	color: #fff;
+	text-align: left;
+}
