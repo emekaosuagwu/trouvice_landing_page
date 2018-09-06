@@ -9,7 +9,7 @@ body {
 
 .banner {
 	margin-top: 50px;
-	height: 700px;
+	height: 680px;
 
 }
 
@@ -47,7 +47,7 @@ body {
 
 .tools_section {
 	background-color: #e72d65;
-    padding: 26px;
+    padding: 35px;
     color: #fff;
 }
 
@@ -62,4 +62,32 @@ body {
 
 .tool_item_image {
 	width: 100%;
+}
+
+.value_section {
+    text-align: center;
+    padding: 40px
+}
+
+.value_section_item {
+    background: #fff;
+    height: 440px;
+    padding: 70px 0px
+}
+
+
+.value_section_item_image {
+    width: 77%;
+    margin-bottom: 40px;
+}
+
+/*.value_section_item_text {
+    text-align: left;
+}*/
+
+.value_section_item--border {
+    border-left: solid;
+    border-right: solid;
+    border-color: gray;
+    border-width: 2px;
 }
